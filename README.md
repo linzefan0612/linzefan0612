@@ -8,5 +8,5 @@
   </a>
 </div>
 
-<!-- ![](https://komarev.com/ghpvc/?username=linzefan0612&color=brightgreen) -->
+[](https://komarev.com/ghpvc/?username=linzefan0612&color=brightgreen)
 
